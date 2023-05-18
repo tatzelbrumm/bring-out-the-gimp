@@ -1,0 +1,249 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      9304,        241]
+NotebookOptionsPosition[      8441,        205]
+NotebookOutlinePosition[      8781,        220]
+CellTagsIndexPosition[      8738,        217]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"url", "=", 
+  "\"\<https://web.archive.org/web/20210926085737/https://www.\
+sondermannverein.org/2014/03/19/die-jahresgabe-ist-da/\>\""}]], "Input",
+ CellChangeTimes->{{3.871975562857193*^9, 3.8719755663203287`*^9}}],
+
+Cell[BoxData["\<\"https://web.archive.org/web/20210926085737/https://www.\
+sondermannverein.org/2014/03/19/die-jahresgabe-ist-da/\"\>"], "Output",
+ CellChangeTimes->{3.871975570145687*^9, 3.871977089555579*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"BarcodeImage", "[", 
+  RowBox[{"url", ",", "\"\<QR\>\"", ",", "200"}], "]"}]], "Input",
+ CellChangeTimes->{{3.871975617261024*^9, 3.871975629299705*^9}, {
+  3.871976401801717*^9, 3.871976402531925*^9}}],
+
+Cell[BoxData[
+ GraphicsBox[
+  TagBox[RasterBox[CompressedData["
+1:eJztkjFOHFEQRBdHDn0F38IpoVMsDgBiQU7W0mLJ4j4+KCARjIqq6t7FTn5X
+SzAz/1dXv2rt19tfV/efdrvd4+eXf1c3fy6Px5unH19ePq4Pjz8fDvu774ff
++4f98dvtq+zv25+rC1Hbu62WnVd32/tzKozrMToO530Km+th32wHYZzD2PHo
+cCut662yhDGMnXOVhbF32MIYxooFC2ehjzpXLC5bGOcyKhbmg15VVpe7s5Mw
+zmJUxTz+5/OcCuNajO9/pe+LMVfvXe9/VWFcg1H9RtXv1mmRFfmVnt0zfRjn
+MrJi985HsTst4w/jHEachR6KDc9Zv9J0tGpHYVyfETXo4d4Ve0fXmR/G2Yxb
+7fa+moXnrB8Z2DfTh3EWo+JgOjW3m8f1Oe4wzmZkWterzpDPzWVali+MazMi
+k7vvzFNeldblDOMcxs6MarbKx2YhT6cnjHMYnbfjdblYDz6dXs0J4/qM294u
+n/JFr0rL+FWFcX1GNZvplJfLwFgVT5U5jOszoh5nuGwus9N2ns43jOsydpjZ
+s/Ls8Dov9R3G9RnVnCqDm3Wq3vmEcQ4jMrk+la/jxfSKnfWGcQ4jY1J9eIc5
+lK/bj+qt9hbGNRmVp/NwvufsQeUN40xGdtdhUvwsr2JmPd19hHFtRjar8mN6
+zNnxcLPDOI+x448+OI+9Kz/lifowzmFU76fkYXfIgvwVg9tXGNdmRB/mxfIw
+LZ5VfKxf3YdxHmPlXZ1hllPnfKQ3jGsxbu9Ri/MVbzeH8+1whHFNxoui2Hzs
+62Z2T5UrjLMYXaHG9ahsH81QcYZxPUb0dzNcxspH9Tp9GGcy4iw877DtimJs
+Sqd2FMYwVr34zljYPNWn9hDGMOK586hmV16qP4zzGF2Py6R6HSP7VvsJ4zxG
+Vc6XaVlGtgfWo3YRxlmMz8+GQgM=
+    "], {{0, 164}, {164, 0}}, {0, 1},
+    ColorFunction->GrayLevel],
+   BoxForm`ImageTag["Bit", ColorSpace -> Automatic, Interleaving -> None],
+   Selectable->False],
+  DefaultBaseStyle->"ImageGraphics",
+  ImageSizeRaw->{164, 164},
+  PlotRange->{{0, 164}, {0, 164}}]], "Output",
+ CellChangeTimes->{3.8719756308456707`*^9, 3.871976403189473*^9, 
+  3.871977090381749*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"BarcodeImage", "[", 
+  RowBox[{"url", ",", "\"\<QR\>\"", ",", "320"}], "]"}]], "Input",
+ CellChangeTimes->{{3.871975617261024*^9, 3.871975629299705*^9}, {
+  3.871975663560898*^9, 3.871975669284543*^9}, {3.87197656473978*^9, 
+  3.871976569721758*^9}}],
+
+Cell[BoxData[
+ GraphicsBox[
+  TagBox[RasterBox[CompressedData["
+1:eJzt0MFqFkEQReHElUtfwbdw69JtxAdIMIqbCIkgvrhrI7gQhns53TMJM5PT
+oPzpqb5VX729+X715dXFxcXD68f/rq5/vr+/v/718c3jH5/uHr59vbv9/OHu
+x+3X2/t3N3/Lfv/7x88lOMvKZUKvGa1c1m97VKtW3edUvQc1t/BJ1kt5Wr9P
+fVWrVq36TOq5LnM7IQk8eXRjqlWrVv0y1byGbKxvZk6qWrVq1arJ5EnRZ+A1
+RMQ3qVq1atXnVhNR75U69u7cPjpbqletWrXqM6nJ6V3283vbsweRatWqtz17
+EG2lvpw6fRujN2smec6j+v+bZQ25Ub3no/r/m2UNuXl+9UU9vYbkJF2XpsrR
+ZJKjWrVq1edW99PreS+yGZ6Q0ni9atWqU/2avstMnpDSeP351GnC1IVIU03P
+J6/mEvpRrVq16qOr06vUhd+Qzcy9nZt/7pXq9ZOrHn07N//cK9XrJ9+bepmw
+rB+dMNX0/KTo9z1HtWrVqs+kJpb+lsy8Zm88k+9EtWrVql+CuifwZPI1efnM
+PSF9Va1aterjqpOO18/NSTqOJvRXqlWrVn0+9dxUo5P3GjJhcs2lqVatWvU5
+1HwSvge+w56WfvMcMptq1XzOuQnTW9WqeU43Lm/mvGSG1HE0oe+HHNWqVas+
+rppM3t+SjnxLfQPEReZXrVq16nOoU06aimTymtHJ537zGVSrVq36WOq5bfTf
+o93n9sA7knvVqlWrPq6azDa6JT7hVjm8l2rVqlWfQ510PDMl916kY88hm+nJ
+qlWrVn0OddeRzFSZdkVmIJP3bYzuRLVq1aqPqCbdeRc+Q58q1aRXXadatWrV
+51b3yjkd2U+Sdi/psmZy1apVqz6uuk842rfnpN3OdeGTq1atWvX51HPzpF5p
+zn5D+pLuKUe1atWqz6EmN+v31iuTKO1nVNGPatWqVR9dnXr1jilnmcm/jnp7
+PqlXrVq16vOpRycZ/Zo2ttVsT5fcXf2ratVbzaZ62+Tu6l/3pl7Wp4Q0P9nD
+ml3xGeYsqkc7quZpqlXPzZAsl4Onz58yuTqlkd+9o2rVqlWfT81PesXTyCaf
+ekujdtXkPlWqVq06JW+rTvPwqXolsfd5iJq7VPMa1apVL2fbpzpNmGrmpMuv
+/XQpeZtyVPdXPJNMTo7q1L2/TTmq+yueSSYnZ29qnpxuuqjPSTJTvmrVqlWr
+5oq+gTU5JJN0V61ateqjq3ka3x5J5up+n276b9WqVas+upocPkNPSK5+Q7bU
+ZxudVrVq1ar3r/4D416EHw==
+    "], {{0, 246}, {246, 0}}, {0, 1},
+    ColorFunction->GrayLevel],
+   BoxForm`ImageTag["Bit", ColorSpace -> Automatic, Interleaving -> None],
+   Selectable->False],
+  DefaultBaseStyle->"ImageGraphics",
+  ImageSizeRaw->{246, 246},
+  PlotRange->{{0, 246}, {0, 246}}]], "Output",
+ CellChangeTimes->{{3.871975664869822*^9, 3.871975670068931*^9}, 
+   3.871976571996406*^9, 3.8719770905237637`*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"titanic", "=", 
+  "\"\<https://www.titanic-magazin.de/heft/klassik/1991/oktober/\>\""}]], \
+"Input",
+ CellChangeTimes->{{3.871975723064055*^9, 3.87197572628461*^9}, 
+   3.871975756666246*^9}],
+
+Cell[BoxData["\<\"https://www.titanic-magazin.de/heft/klassik/1991/oktober/\"\
+\>"], "Output",
+ CellChangeTimes->{3.871975766202181*^9, 3.8719770906114073`*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"BarcodeImage", "[", 
+  RowBox[{"titanic", ",", "\"\<QR\>\"", ",", "200"}], "]"}]], "Input",
+ CellChangeTimes->{{3.871975768785831*^9, 3.871975776707129*^9}, {
+  3.871976407656034*^9, 3.871976408416925*^9}}],
+
+Cell[BoxData[
+ GraphicsBox[
+  TagBox[RasterBox[CompressedData["
+1:eJztkkFKQ0EQRBNXLr2Ct3Dr0m3EA0SMwU2ERBD3HlwFhaGo6ukf4U9/qAKd
+mba76rX868fXzfPFarU6XX7/2mzfb4/H7cf91ffj4XB62R92T3eHt91+d7x5
+/Gn7/P2JtG7092Y90Yyay8oM8zOsidrZ9lR+vbkoxwz1GNAvOzOFW+WYYTkM
+vTrrmepnhuUw4L1VNtcMy2Ng/ooz04992T3MMJ5BCb3/e54jM8zLwL6T6Ltp
+a+2J/ez+H5lhHgb1jajaFEY1z04z1GFQM5iT8VbM6Jnd2wzzM7Bc5t/bIcvR
+mzHDOIbsHfOjfmRUPupthrEMmZzWn2WretRrhnoM5zAyZsXO7phnhloM7Wx0
+ZjLwjHZT3mYYx4B37GF8agZ5M7uaoRYD44kU9WIm42HZZqjFwPwVq8qMMtS9
+t6MZ5mfAeZWJXFP6sc74zVCHgc3gvPJSedG+6n9ghvEMiqdX77Gov7G7GWox
+RLnMX/VgfzbbDLUYIl9WZ15Rn/JV82aowcC8evmZnOhthroMkVfEiCfWmNRu
+ZhjLwPJZjmKbmsHmzVCHIVLrgb69zMhH1cxQg2FNFNVZJvPEXsZvhpoMUT06
+MzUmtpMZlsGAc61URpSnesywDAb0aN9Y7+WjZ7SvGcYxoBQDevZqEaMZajIo
+IYvyZrw9JuZthvEMXw7jL6M=
+    "], {{0, 132}, {132, 0}}, {0, 1},
+    ColorFunction->GrayLevel],
+   BoxForm`ImageTag["Bit", ColorSpace -> Automatic, Interleaving -> None],
+   Selectable->False],
+  DefaultBaseStyle->"ImageGraphics",
+  ImageSizeRaw->{132, 132},
+  PlotRange->{{0, 132}, {0, 132}}]], "Output",
+ CellChangeTimes->{3.8719757774671507`*^9, 3.871976409084581*^9, 
+  3.871977090793131*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"BarcodeImage", "[", 
+  RowBox[{"titanic", ",", "\"\<QR\>\"", ",", "320"}], "]"}]], "Input",
+ CellChangeTimes->{{3.871975617261024*^9, 3.871975629299705*^9}, {
+  3.871975663560898*^9, 3.871975669284543*^9}, {3.871975789635805*^9, 
+  3.87197579191332*^9}, {3.8719765780566*^9, 3.8719765797041683`*^9}}],
+
+Cell[BoxData[
+ GraphicsBox[
+  TagBox[RasterBox[CompressedData["
+1:eJzt0cFqVEEQheHElUtfwbdw69JtxAdIcAxuRpgI4hP7GkZwk7E8/HW7+2bE
+vyBC36muOl/7+u7LzacXV1dXDy8f/7m5/fb2dLr9/v7V4+HD8eHz/fHw8d3x
+6+H+cHpz96vtx++/dl1X9fQ3cL09mm+YUzJlopwyyfWpJfPymeUGQClPPMvW
+De3UMmXKlClzX2bKMmd0usBF7dQyZcqUKfNSmVs7wfUVWeaE550yZQ5nmROe
+d8qUOZxla/j0saw5IpkyZcqU+W8wQc50ferMNKW9QWYj0oqZMmX+pVNmI9KK
+mSuYvFLAvU8LS6ZMmQOnhSXzgpnXYwVmprhpJvi4W8k8aylPaSb4uFvJPGsp
+T2km+LhbyTxrKU9pJvg4mLNMzVu2ruXJyn3gJFOmTJkyVzP56JR6MCDoBO/J
+t8uUKVOmzPlMIAI5tz7rHO3W0TJlypQpcwZzzsfka89Mz8O3899kypQpU+ZE
+5mDqMieA8c72MJkyZcqUuS9z4fOkKsMDZvpYtrT/j6aWTJn5Y9kiU+aseiZm
+uah9GoybTuBBwGiZMmXKlLmMmT6m6+Bd+Oj0ZqAFhJApU6ZMmauZwN6u9rBE
+AXYAkylTpkyZOzFBTv5YnNKOyz+WIWTKlClT5jJm2scp6SWmzkyd6SRTpkyZ
+MndigtFpHw/BDTw8p8iMJVOmzD9myuxHau9rJ2uj+QXwUaZMmTJl7sRsi0BO
+fj3NnAOTKVOmTJk7MdvJQCcI0Z7Ck/F9MmXKlClzGROE2OobTN3+TaZMmTJl
+PiezHQIMK5Ole4DCI8mUKVOmzNVM4AOpy9/K7Svign0yZcqUKXM1s13l2pRs
+K6W9nbfwZOkksx4ms7Gdt/Bk6SSzHiazsb0dsKx2J6CASGlY2QLQMmXKlClz
+NbPd2T4NtoBKTyBTpkyZMi+VmTaUxeO2Dfw6+E2mTJlbcsok18Fv/yUzrS1/
+S50gILieXlemTJkyZe7ETMWZKdLWFuADG2TKlClT5momr4TmAdOwwScAAWXK
+lClT5nzmT0Y9dw0=
+    "], {{0, 231}, {231, 0}}, {0, 1},
+    ColorFunction->GrayLevel],
+   BoxForm`ImageTag["Bit", ColorSpace -> Automatic, Interleaving -> None],
+   Selectable->False],
+  DefaultBaseStyle->"ImageGraphics",
+  ImageSizeRaw->{231, 231},
+  PlotRange->{{0, 231}, {0, 231}}]], "Output",
+ CellChangeTimes->{3.871975794735942*^9, 3.871976580248774*^9, 
+  3.871977090926464*^9}]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{Automatic, 555}, {33, Automatic}},
+FrontEndVersion->"11.0 for Linux x86 (64-bit) (September 21, 2016)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 240, 4, 77, "Input"],
+Cell[823, 28, 210, 2, 55, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1070, 35, 226, 4, 34, "Input"],
+Cell[1299, 41, 1379, 27, 179, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2715, 73, 274, 5, 34, "Input"],
+Cell[2992, 80, 1766, 33, 261, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[4795, 118, 215, 5, 32, "Input"],
+Cell[5013, 125, 160, 2, 32, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[5210, 132, 230, 4, 34, "Input"],
+Cell[5443, 138, 1131, 23, 147, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[6611, 166, 324, 5, 34, "Input"],
+Cell[6938, 173, 1487, 29, 279, "Output"]
+}, Open  ]]
+}
+]
+*)
+
